@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QR05YFyL5wo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MUHAMMED ALİ ATMACA\\Source\\Repos\\WebRTCSignalingServer\\WebRTCSignalingServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MUHAMMED ALİ ATMACA\\.nuget\\packages\\fleck\\1.2.0\\fleck.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

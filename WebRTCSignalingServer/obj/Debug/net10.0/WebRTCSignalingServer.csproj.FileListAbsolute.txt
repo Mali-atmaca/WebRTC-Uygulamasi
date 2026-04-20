@@ -1,0 +1,17 @@
+C:\Users\MUHAMMED ALİ ATMACA\Source\Repos\WebRTCSignalingServer\bin\Debug\net10.0\WebRTCSignalingServer.exe
+C:\Users\MUHAMMED ALİ ATMACA\Source\Repos\WebRTCSignalingServer\bin\Debug\net10.0\WebRTCSignalingServer.deps.json
+C:\Users\MUHAMMED ALİ ATMACA\Source\Repos\WebRTCSignalingServer\bin\Debug\net10.0\WebRTCSignalingServer.runtimeconfig.json
+C:\Users\MUHAMMED ALİ ATMACA\Source\Repos\WebRTCSignalingServer\bin\Debug\net10.0\WebRTCSignalingServer.dll
+C:\Users\MUHAMMED ALİ ATMACA\Source\Repos\WebRTCSignalingServer\bin\Debug\net10.0\WebRTCSignalingServer.pdb
+C:\Users\MUHAMMED ALİ ATMACA\Source\Repos\WebRTCSignalingServer\bin\Debug\net10.0\Fleck.dll
+C:\Users\MUHAMMED ALİ ATMACA\Source\Repos\WebRTCSignalingServer\obj\Debug\net10.0\WebRTCSignalingServer.csproj.AssemblyReference.cache
+C:\Users\MUHAMMED ALİ ATMACA\Source\Repos\WebRTCSignalingServer\obj\Debug\net10.0\WebRTCSignalingServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MUHAMMED ALİ ATMACA\Source\Repos\WebRTCSignalingServer\obj\Debug\net10.0\WebRTCSignalingServer.AssemblyInfoInputs.cache
+C:\Users\MUHAMMED ALİ ATMACA\Source\Repos\WebRTCSignalingServer\obj\Debug\net10.0\WebRTCSignalingServer.AssemblyInfo.cs
+C:\Users\MUHAMMED ALİ ATMACA\Source\Repos\WebRTCSignalingServer\obj\Debug\net10.0\WebRTCSignalingServer.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMED ALİ ATMACA\Source\Repos\WebRTCSignalingServer\obj\Debug\net10.0\WebRTCSi.98585FFC.Up2Date
+C:\Users\MUHAMMED ALİ ATMACA\Source\Repos\WebRTCSignalingServer\obj\Debug\net10.0\WebRTCSignalingServer.dll
+C:\Users\MUHAMMED ALİ ATMACA\Source\Repos\WebRTCSignalingServer\obj\Debug\net10.0\refint\WebRTCSignalingServer.dll
+C:\Users\MUHAMMED ALİ ATMACA\Source\Repos\WebRTCSignalingServer\obj\Debug\net10.0\WebRTCSignalingServer.pdb
+C:\Users\MUHAMMED ALİ ATMACA\Source\Repos\WebRTCSignalingServer\obj\Debug\net10.0\WebRTCSignalingServer.genruntimeconfig.cache
+C:\Users\MUHAMMED ALİ ATMACA\Source\Repos\WebRTCSignalingServer\obj\Debug\net10.0\ref\WebRTCSignalingServer.dll
